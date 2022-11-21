@@ -1,4 +1,4 @@
-## Hi, I'm [Vighnesh Deep Sharan](https://www.vighnesh.site/) 👋
+## Hi, I'm [Vighnesh Deep Sharan](https://vighnesh.vercel.app/) 👋
 
 ![](https://komarev.com/ghpvc/?username=vighneshdeepweb)
 
@@ -33,7 +33,7 @@
 [![Twitter: F4Flicker](https://img.shields.io/twitter/follow/F4Flicker?style=social)](https://twitter.com/F4Flicker)
 [![Linkedin: Vighnesh Deep Sharan](https://img.shields.io/badge/-Vighnesh_Deep-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vighnesh-deep-202001/)](https://www.linkedin.com/in/vighnesh-deep-202001/)
 [![GitHub Vighnesh Deep Sharan](https://img.shields.io/github/followers/vighneshdeepweb?label=follow&style=social)](https://github.com/vighneshdeepweb)
-[![website](https://img.shields.io/badge/PortfolioWebsite-website-2648ff?style=flat-square&logo=google-chrome)](https://www.vighnesh.site/)
+[![website](https://img.shields.io/badge/PortfolioWebsite-website-2648ff?style=flat-square&logo=google-chrome)](https://vighnesh.vercel.app/)
 
 
 ### Languages and Tools:  
